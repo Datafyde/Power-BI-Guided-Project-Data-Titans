@@ -12,5 +12,4 @@ Business questions being answered in this document are:
 6. What is the average daily quantity of drugs sold?
 7. What drug category has the highest profit margin?
 8. Are there any drugs that are frequently sold together or have a high correlation in sales?
-
-
+![Data-governance-877x432](https://github.com/Datafyde/PowerBI/assets/135570337/810285c2-cf8b-46ef-8528-15f09757f1b0)
