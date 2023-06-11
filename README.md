@@ -1,7 +1,7 @@
 ![GettyHeadsUpDisplay](https://github.com/Datafyde/PowerBI/assets/135570337/9a24ad87-ff89-47c1-a078-2d734330aa44)
 
 # Introduction
-A case study of Mary's Pharmacy.We are using the Pharma Sales data for this project.
+A case study of Mary's Pharmacy.We are using the Pharma Sales data for this project here: https://github.com/Datafyde/PowerBI/blob/main/saleshourly%20-%20saleshourly.csv.
 Business questions being answered in this document are:
 1. What are the overall sales trend over the past 6 years?
 2. Are there specific drugs or drug categories that have experienced significant changes in sales volume?
