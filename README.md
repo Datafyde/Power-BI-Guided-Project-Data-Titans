@@ -1,6 +1,6 @@
-![GettyHeadsUpDisplay](https://github.com/Datafyde/PowerBI/assets/135570337/9a24ad87-ff89-47c1-a078-2d734330aa44)]
+![GettyHeadsUpDisplay](https://github.com/Datafyde/PowerBI/assets/135570337/9a24ad87-ff89-47c1-a078-2d734330aa44)
 
-#Introduction
+# Introduction
 A case study of Mary's Pharmacy.
 Business questions being answered in this document are:
 1. What are the overall sales trend over the past 6 years?
