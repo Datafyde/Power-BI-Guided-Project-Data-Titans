@@ -57,7 +57,8 @@ Example metrics include:
 ## Preprocess the dataset:
 Clean the data by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
 Creating additional features to give more robustness to our analysis.
-3.2. Data modelling and relationships
+
+## Data modelling and relationships
 Created dimensions table for drugs, date, and time
 Created facts table.
 Connected the tables to build our data model.
