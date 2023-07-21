@@ -24,20 +24,15 @@ The dataset is built from the initial dataset consisting of transactional data c
 - R03 - Drugs for obstructive airway diseases
 - R06 - Antihistamines for systemic use
 
-Data Source: https://www.kaggle.com/milanzdravkovic/pharma-sales-data?select=salesdaily.csv
+Data Source: [Pharm Dataset](https://www.kaggle.com/milanzdravkovic/pharma-sales-data?select=salesdaily.csv)
 
 # Project Objective
-The objective of the project was to help Mary's Pharmacy improve its sales performance and overall business operations by analyzing transactional sales data and then create dashboard(s) that provide valuable insights the sales manager and CEO. The dashboard should uncover trends, patterns, and opportunities in the sale of pharmaceutical drugs, enabling informed decision-making and driving business growth.
+The objective of the project was to help Mary's Pharmacy improve its sales performance and overall business operations by analyzing transactional sales data and then creating dashboard(s) that provide valuable insights to the sales manager and CEO. The dashboard should uncover trends, patterns, and opportunities in the sale of pharmaceutical drugs, enabling informed decision-making and driving business growth.
 
 Throughout the project, we were able to achieve the following:
 
 ## Understand Business Objectives and User Requirements
 We tried to understand the specific requirements and objectives from the business problem. We identified key areas we want to focus on and the questions the business needs answers to. 
-
-Some potential areas and questions included:
-Which drugs have the highest sales revenue? 
-What are the rush hours for the pharmacy? 
-What are the top-selling drugs in each ATC category?
 
 ## Define Business Questions and Metrics
 Based on the discussions in Step 1, we have defined specific business questions that the dashboard should answer. Example questions include:
@@ -46,7 +41,7 @@ Based on the discussions in Step 1, we have defined specific business questions 
 - Are there any seasonal sales patterns for specific drugs or ATC categories?
 - What time of the day has the highest sales?
 
-## Define the metrics and key performance indicators (KPIs) that will help answer the business questions. 
+## Define the metrics and Key Performance Indicators (KPIs) that will help answer the business questions. 
 Example metrics include:
 - Total sales revenue
 - Quantity sold by drug or ATC category
@@ -55,32 +50,33 @@ Example metrics include:
 - Quantity growth rate.
 
 ## Preprocess the dataset:
-Clean the data by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
-Creating additional features to give more robustness to our analysis.
+The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
 
-## Data modelling and relationships
-Created dimensions table for drugs, date, and time
-Created facts table.
-Connected the tables to build our data model.
+### Dataset before cleaning
+### Dataset after cleaning
+
+## Data modelling and relationships.
+Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:
+
+- Drugs Table 
+- Date Table
+- Time Table
+- Additional features were created to give more robustness to our analysis
+
+The data model was designed using the Star Schema where the different dimensions were connected to the Facts table in a one-to-many relationship.
 
 ## Create visualizations and charts:
-Use appropriate chart types (e.g., bar charts, line charts, pie charts) to represent the metrics and insights.
-Include interactive features such as filters, drill-down options, and tooltips for detailed information.
-Create separate sections or tabs for different metrics or areas of analysis (Optional).
-
-## Incorporate relevant insights and trends:
-Highlight the most important insights and trends on the dashboard.
-Use annotations, callouts, or text boxes to provide additional context and explanations (Optional).
+Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
 
 ## Dashboard Testing and Refinement
-a. Schedule a one-on-one session with an instructor (Bariyat or Clara). This is to get feedback on your work done to see if you are meeting up with the requirement. B
-b. Gather feedback and make necessary adjustments to the dashboard layout, visualizations, and insights.
-c. Iterate the dashboard design based on the feedback received.
+To guide each student throughout the project, they get the opportunity to schedule a one-on-one session with an instructor. This is to get feedback on their work done and to see if they were meeting up with the project's requirements. The students gathered feedback from these sessions and made necessary adjustments to their dashboard layout, visualizations, and insights based on the feedback received.
 
-Book Appointment here: https://calendly.com/datafied-technologies/guided-project-one-on-one-session
+## Incorporate relevant insights and trends:
+Each student highlighted the most important insights and trends on their dashboard. Find the presentations here 👉👉
+
 
 ## Deployment and Documentation
-a. Once the dashboard is finalized, deploy it to Power BI service using your created Power BI account.
-b. Provide clear instructions on how to use the dashboard and interpret the visualizations via presentation. More information will be on this will be communicated.
-c. Document 
+Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
+
+Interact with the final dashboard here:
 ![Data-governance-877x432](https://github.com/Datafyde/PowerBI/assets/135570337/810285c2-cf8b-46ef-8528-15f09757f1b0)
