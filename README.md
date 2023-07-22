@@ -1,7 +1,13 @@
 ![GettyHeadsUpDisplay](https://github.com/Datafyde/PowerBI/assets/135570337/9a24ad87-ff89-47c1-a078-2d734330aa44)
 
 
-This is the official repository for the Power BI Guided project for the Data Titan Cohort.
+This is the official repository for the Power BI Guided project for the Data Titan Cohort. 
+
+Interact with the final dashboard here: 
+- [Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFlNDQ1OTYtN2U1Yi00NDE0LWE4ODItYTQ3ZGE0NzA2NjhhIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
+- [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDkwODFkMTYtY2I4YS00MTYzLWIzMTctMzFkYzljMTg3OTcxIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
+
+[View Students' Project Gallery here](https://www.linkedin.com/feed/update/urn:li:activity:7087109812831891456) 
 
 # Business problem
 Mary is the owner of a small pharmacy located in a busy city center. She has been running the pharmacy for the past few years and has noticed that sales have stagnated. Despite the competitive pricing, Mary's Pharmacy has struggled to attract new customers.
@@ -81,6 +87,24 @@ To guide each student throughout the project, they get the opportunity to schedu
 ## Incorporate relevant insights and trends:
 Each student highlighted the most important insights and trends on their dashboard. Find the presentations here 👉👉
 
+## Insights
+**[Watch Video for more insights]()**
+
+- General overall trend for sales was not steady. The pharmacy started off well. 2014, 2016, and 2018 were good years for the business. However, 2015, 2017, and 2019 were also down times for the business.
+- 2018 had the highest sales
+- While it was established that 2018 was the best year in terms of sales, that is not the true picture for specific drugs.
+- Considering seasons, sales were generally good in winter and spring. However for specific drugs, the M0 series do well in autumn and winter, the R0 series do well in spring and the N0 series does not show a specific seasonal pattern.
+- Sales declined in 2015 by 8% this was strongly attributed to the decline in the sales and quantity sold of N05B (Psycholeptics drugs, Anxiolytic drugs) drugs in that year
+- Afternoon records the time with the most sales. However, across the drug category, the R0 drug series sell more in the evenings than in the afternoons.
+- N05B maintains the top-selling drugs across all years followed by N02BE and then R03 drugs. R03 overtook N02BE in terms of sales in 2018.
+- While N05B is the best seller in terms of sales, in terms of quantity, N02BE has the highest quantity sold selling 3 times the quantity sold for N05B.
+
+## Recommendation
+- The management should look into the market conditions and strategies adopted for moving sales in 2014,2016 and 2918 such as operational efficiency, supply chain, customer service, and so on as those strategies might have worked.
+- Certain drugs showed good performance for particular seasons. Marketing efforts should be centered around them for that particular period.
+- For drugs that show seasonal patterns as well, the management should ensure enough supply of those drugs around that time to match up with the demand.
+- There might be a huge opportunity in sales if the pharmacy considers opening 24 hours
+- The management should consider increasing prices, especially for N02BE drugs as they have shown to drive the market more.
 
 ## Deployment and Documentation
 Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
@@ -89,6 +113,6 @@ Interact with the final dashboard here:
 - [Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFlNDQ1OTYtN2U1Yi00NDE0LWE4ODItYTQ3ZGE0NzA2NjhhIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 - [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDkwODFkMTYtY2I4YS00MTYzLWIzMTctMzFkYzljMTg3OTcxIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 
-Students' Project Gallery: 
+[View Students' Project Gallery here](https://www.linkedin.com/feed/update/urn:li:activity:7087109812831891456) 
 
 ![Data-governance-877x432](https://github.com/Datafyde/PowerBI/assets/135570337/810285c2-cf8b-46ef-8528-15f09757f1b0)
