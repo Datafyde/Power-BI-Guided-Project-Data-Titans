@@ -68,6 +68,8 @@ The data model was designed using the Star Schema where the different dimensions
 ## Create visualizations and charts:
 Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
 
+![image](https://github.com/Datafyde/Power-BI-Guided-Project-Data-Titans/assets/135570337/5567d1d8-4398-4b27-9132-dcd244c81724)
+
 ## Dashboard Testing and Refinement
 To guide each student throughout the project, they get the opportunity to schedule a one-on-one session with an instructor. This is to get feedback on their work done and to see if they were meeting up with the project's requirements. The students gathered feedback from these sessions and made necessary adjustments to their dashboard layout, visualizations, and insights based on the feedback received.
 
@@ -78,5 +80,8 @@ Each student highlighted the most important insights and trends on their dashboa
 ## Deployment and Documentation
 Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
 
-Interact with the final dashboard here:
+Interact with the final dashboard here: 
+- [Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFlNDQ1OTYtN2U1Yi00NDE0LWE4ODItYTQ3ZGE0NzA2NjhhIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
+- [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDkwODFkMTYtY2I4YS00MTYzLWIzMTctMzFkYzljMTg3OTcxIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
+
 ![Data-governance-877x432](https://github.com/Datafyde/PowerBI/assets/135570337/810285c2-cf8b-46ef-8528-15f09757f1b0)
