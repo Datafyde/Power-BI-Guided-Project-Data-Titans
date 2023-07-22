@@ -5,9 +5,11 @@ This is the official repository for the Power BI Guided project for the Data Tit
 
 Interact with the final dashboard here: 
 - [Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFlNDQ1OTYtN2U1Yi00NDE0LWE4ODItYTQ3ZGE0NzA2NjhhIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
-- [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDkwODFkMTYtY2I4YS00MTYzLWIzMTctMzFkYzljMTg3OTcxIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
+- [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIyMzUzYWQtZWIwYy00NTQ1LTkyY2MtYzczNzIyNjM4ZDI3IiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 
-[View Students' Project Gallery here](https://www.linkedin.com/feed/update/urn:li:activity:7087109812831891456) 
+**[Watch Project summary]()**
+
+[View Students' Project Gallery](https://www.linkedin.com/feed/update/urn:li:activity:7087109812831891456) 
 
 # Business problem
 Mary is the owner of a small pharmacy located in a busy city center. She has been running the pharmacy for the past few years and has noticed that sales have stagnated. Despite the competitive pricing, Mary's Pharmacy has struggled to attract new customers.
@@ -41,7 +43,7 @@ Throughout the project, we were able to achieve the following:
 We tried to understand the specific requirements and objectives from the business problem. We identified key areas we want to focus on and the questions the business needs answers to. 
 
 ## Define Business Questions and Metrics
-Based on the discussions in Step 1, we have defined specific business questions that the dashboard should answer. Example questions include:
+Based on the discussions in Step 1, we defined specific business questions that the dashboard should answer. Example questions include:
 - What is the overall sales trend for the pharmacy?
 - Which drugs have the highest sales revenue?
 - Are there any seasonal sales patterns for specific drugs or ATC categories?
@@ -85,11 +87,11 @@ Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to
 To guide each student throughout the project, they get the opportunity to schedule a one-on-one session with an instructor. This is to get feedback on their work done and to see if they were meeting up with the project's requirements. The students gathered feedback from these sessions and made necessary adjustments to their dashboard layout, visualizations, and insights based on the feedback received.
 
 ## Incorporate relevant insights and trends:
-Each student highlighted the most important insights and trends on their dashboard. Find the presentations here 👉👉
+Each student highlighted the most important insights and trends on their dashboard. 
+
+**[Watch Student's presentation here]()**
 
 ## Insights
-**[Watch Video for more insights]()**
-
 - General overall trend for sales was not steady. The pharmacy started off well. 2014, 2016, and 2018 were good years for the business. However, 2015, 2017, and 2019 were also down times for the business.
 - 2018 had the highest sales
 - While it was established that 2018 was the best year in terms of sales, that is not the true picture for specific drugs.
