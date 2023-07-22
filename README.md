@@ -53,7 +53,10 @@ Example metrics include:
 The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
 
 ### Dataset before cleaning
+![image](https://github.com/Datafyde/Power-BI-Guided-Project-Data-Titans/assets/135570337/77193e5f-9259-434f-832a-e727f4f72ea8)
+
 ### Dataset after cleaning
+![image](https://github.com/Datafyde/Power-BI-Guided-Project-Data-Titans/assets/135570337/dd821a18-34f9-4589-8c74-e6c4ca12be47)
 
 ## Data modelling and relationships.
 Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:
@@ -64,6 +67,8 @@ Dimensions with which to break down the analysis were identified. Hence, new tab
 - Additional features were created to give more robustness to our analysis
 
 The data model was designed using the Star Schema where the different dimensions were connected to the Facts table in a one-to-many relationship.
+
+![image](https://github.com/Datafyde/Power-BI-Guided-Project-Data-Titans/assets/135570337/f78e3d8f-55fb-4907-a196-99403ee887fe)
 
 ## Create visualizations and charts:
 Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
@@ -83,5 +88,7 @@ Once the dashboard was finalized, it was deployed to Power BI service. The proje
 Interact with the final dashboard here: 
 - [Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFlNDQ1OTYtN2U1Yi00NDE0LWE4ODItYTQ3ZGE0NzA2NjhhIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 - [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDkwODFkMTYtY2I4YS00MTYzLWIzMTctMzFkYzljMTg3OTcxIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
+
+Students' Project Gallery: 
 
 ![Data-governance-877x432](https://github.com/Datafyde/PowerBI/assets/135570337/810285c2-cf8b-46ef-8528-15f09757f1b0)
