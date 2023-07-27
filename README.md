@@ -7,7 +7,7 @@ Interact with the final dashboard here:
 - [Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFlNDQ1OTYtN2U1Yi00NDE0LWE4ODItYTQ3ZGE0NzA2NjhhIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 - [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIyMzUzYWQtZWIwYy00NTQ1LTkyY2MtYzczNzIyNjM4ZDI3IiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 
-**[Watch Project summary]()**
+**[Watch Project summary](https://youtu.be/XCEgbjmS8E4)**
 
 [View Students' Project Gallery](https://www.linkedin.com/feed/update/urn:li:activity:7087109812831891456) 
 
