@@ -55,7 +55,7 @@ Example metrics include:
 - Quantity sold by drug or ATC category
 - Sales growth rate
 - Top-selling drugs by revenue or quantity
-- Quantity growth rate.
+- Quantity growth rate..
 
 ## Preprocess the dataset:
 The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
