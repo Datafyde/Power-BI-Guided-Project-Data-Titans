@@ -1,8 +1,5 @@
 ![GettyHeadsUpDisplay](https://github.com/Datafyde/PowerBI/assets/135570337/9a24ad87-ff89-47c1-a078-2d734330aa44)
 
-
-This is the official repository for the Power BI Guided project for the Data Titan Cohort. 
-
 Interact with the final dashboard here: 
 - [Sales Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFlNDQ1OTYtN2U1Yi00NDE0LWE4ODItYTQ3ZGE0NzA2NjhhIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 - [Sales Activity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIyMzUzYWQtZWIwYy00NTQ1LTkyY2MtYzczNzIyNjM4ZDI3IiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
